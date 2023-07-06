@@ -1,8 +1,13 @@
-# wifu
+# Anime Image Player
+This anime image player is created using waifu api which displays a bunch of anime images .
 
-A new Flutter project.
+
 
 ## Getting Started
+
+<img src='lib\images\readmeimg\page1.jpg' width=300 height=550>
+
+![](lib\images\readmeimg\page1.jpg)
 
 This project is a starting point for a Flutter application.
 
