@@ -1,5 +1,7 @@
-# Anime Image Player
-This anime image player is created using waifu api which displays a bunch of anime images .
+# Introducing AnimeFlix - Your Anime Streaming Companion!
+AnimeFlix is a sleek and user-friendly anime streaming app that brings the world of anime right to your fingertips. With its simple yet captivating UI, you'll enjoy a seamless and immersive experience. The app integrates an API to provide a vast collection of anime series, movies, and OVAs.
+
+Using AnimeFlix is a breeze. Explore the diverse options by selecting your desired category from the dropdown button. Whether you're in the mood for action, romance, fantasy, or comedy, AnimeFlix has you covered. Discover hidden gems or dive into popular series with just a few taps.
 
 
 
